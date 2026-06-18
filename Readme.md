@@ -49,6 +49,14 @@ This repository contains comprehensive project documentation and submissions fro
 | | | Pranjal Ramesh Sathe | 24213230111 | |
 | | | Rajvardhan Popat Shete | 24213230117 | |
 | | | Srushti Aba Waghmode | 24213230126 | |
+| **Group 9** | 🎯 **Intelligent Placement Preparation and Career Guidance** | Sanika Dilip Pawar | 24213230082 | [📄 View](./Synopsis_Report/G9.pdf) |
+| | | Uday Dnyaneshwar Hilal | 24213230101 | |
+| | | Vedant Aadesh Raut | 24213230104 | |
+| | | Priyanka Subhash Jadhav | 25213230299 | |
+| **Group 10** | 🎉 **College Event Management System** | Shravani Sanjay Bankar | 24213230010 | [📄 View](./Synopsis_Report/G10.pdf) |
+| | | Sanika Mahavir Jadhav | 24213230095 | |
+| | | Rutuja Arjun Thaware | 24213230098 | |
+| | | Mahevish Shabbir Shaikh | 24213230123 | |
 
 ---
 
@@ -58,8 +66,8 @@ This repository contains comprehensive project documentation and submissions fro
 |--------|---------|
 | **Organization** | HiTech Computer Solutions |
 | **Program Year** | 2026-2027 |
-| **Total Groups** | 8 |
-| **Total Interns** | 30+ |
+| **Total Groups** | 10 |
+| **Total Interns** | 40+ |
 | **Focus Areas** | Web Development, Python Backend, Database Management |
 
 ---

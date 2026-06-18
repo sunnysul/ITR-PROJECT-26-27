@@ -81,3 +81,26 @@ Title: “Smart Residential Services”
 4.Srushti Aba Waghmode(24213230126)
 ``` 
 
+## Group 9
+```
+Project Title:- Intelligent Placement Preparation and Career Guidance
+ Submitted by
+1. Sanika Dilip Pawar(24213230082)
+2. Uday Dnyaneshwar Hilal(24213230101)
+3.Vedant Aadesh Raut(24213230104)
+4.priyanka Subhash Jadhav(25213230299)
+```
+
+## Group 10
+```
+PROJECT SYNOPSIS TITLE
+COLLEGE EVENT MANAGEMENT SYSTEM
+NAMES OF GROUP MEMBERS:
+1. Shravani sanjay bankar:24213230010
+2. Sanika mahavir jadhav:24213230095
+3. Rutuja arjun thaware:24213230098
+4. Mahevish shabbir shaikh:24213230123
+5. Pratiksha Dnyaneshwar Jadhav:25213230285
+```
+
+add Group 9 and Group 10 to the list of projects. in Readme.md file. and change acourdingly.
